@@ -1,3 +1,211 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// WTC 文獻 Wiki 視覺樣式，規格見 CLAUDE.md 第 5 節與第 8 節
+// 風格：撞色新粗獷風＋復古視窗風，配色為「霧面薄荷藍」
+
+$ink: #2f2f2f;
+$page-bg: #eef2ef;
+$window-bg: #ffffff;
+
+$color-card: #b6c3e0;
+$color-finding: #efdca8;
+$color-limit: #eebfb7;
+$color-conflict: #f2c38f;
+$color-quote: #dcdedb;
+$color-idea: #c8dfb0;
+$color-page: #a9cfc4;
+$color-backlinks: #d9c9e6;
+
+$font-heading: "Zen Maru Gothic", "Noto Sans TC", sans-serif;
+$font-body: "Noto Sans TC", sans-serif;
+
+@mixin window-frame {
+  border: 2px solid $ink;
+  border-right-width: 4px;
+  border-bottom-width: 4px;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+// 字型與字級
+body {
+  background-color: $page-bg;
+  color: $ink;
+  font-family: $font-body;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+article,
+article p,
+article li,
+article td,
+article th {
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.page-title,
+.article-title {
+  font-family: $font-heading;
+  color: $ink;
+}
+
+// 內文區一律白底
+#quartz-body .center > article {
+  @include window-frame;
+  background-color: $window-bg;
+  margin-top: 1rem;
+  padding: 0.5rem 1.5rem 1.25rem;
+}
+
+// 視窗一：頁面主視窗（頁面標題區）
+#quartz-body .page-header > .popover-hint {
+  @include window-frame;
+  background-color: $color-page;
+  padding: 1rem 1.25rem;
+
+  &:empty {
+    display: none;
+  }
+
+  .article-title {
+    margin: 0;
+  }
+
+  .breadcrumb-container {
+    margin: 0 0 0.5rem;
+  }
+
+  .breadcrumb-element a,
+  .breadcrumb-element p,
+  .content-meta,
+  .content-meta span {
+    color: $ink;
+  }
+
+  .content-meta {
+    margin: 0.25rem 0 0;
+  }
+}
+
+// 標籤
+a.internal.tag-link {
+  background-color: $window-bg;
+  border: 2px solid $ink;
+  border-radius: 8px;
+  color: $ink;
+  padding: 0 0.5rem;
+}
+
+// 視窗二到七：內文的 callout
+.callout {
+  @include window-frame;
+  background-color: $window-bg;
+  color: $ink;
+  margin: 1.25rem 0;
+  padding: 0;
+
+  & > .callout-title {
+    background-color: var(--window-color);
+    border-bottom: 2px solid $ink;
+    color: $ink;
+    font-family: $font-heading;
+    padding: 0.4rem 1rem;
+  }
+
+  & > .callout-content {
+    background-color: $window-bg;
+    padding: 0.75rem 1rem;
+
+    & > :last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  &[data-callout] {
+    --color: #{$ink};
+    --border: #{$ink};
+    --bg: #{$window-bg};
+  }
+
+  &[data-callout="card"] {
+    --window-color: #{$color-card};
+    --callout-icon: var(--callout-icon-abstract);
+  }
+
+  &[data-callout="finding"] {
+    --window-color: #{$color-finding};
+    --callout-icon: var(--callout-icon-success);
+  }
+
+  &[data-callout="limit"] {
+    --window-color: #{$color-limit};
+    --callout-icon: var(--callout-icon-warning);
+  }
+
+  &[data-callout="conflict"] {
+    --window-color: #{$color-conflict};
+    --callout-icon: var(--callout-icon-danger);
+  }
+
+  &[data-callout="quote"] {
+    --window-color: #{$color-quote};
+    --callout-icon: var(--callout-icon-quote);
+  }
+
+  &[data-callout="idea"] {
+    --window-color: #{$color-idea};
+    --callout-icon: var(--callout-icon-note);
+  }
+}
+
+// 視窗八：連到這裡（反向連結）
+.backlinks {
+  @include window-frame;
+  background-color: $window-bg;
+  flex: 0 1 auto;
+  overflow: hidden;
+
+  & > h3 {
+    background-color: $color-backlinks;
+    border-bottom: 2px solid $ink;
+    font-size: 0;
+    padding: 0.4rem 1rem;
+
+    // Quartz 的 zh-TW 語系寫「反向連結」，這裡換成 CLAUDE.md 第 5 節的視窗名稱
+    &::before {
+      content: "連到這裡";
+      font-size: 1rem;
+    }
+  }
+
+  & > ul.overflow {
+    margin: 0;
+    padding: 0.5rem 1rem;
+  }
+}
+
+// 導覽元件沿用同一種框線
+.graph > .graph-outer,
+.search > .search-button {
+  @include window-frame;
+  background-color: $window-bg;
+}
+
+// 頁尾只放本專案 repo 連結（CLAUDE.md 第 8 節），隱藏 Quartz 內建的「Created with」那一行
+footer > p {
+  display: none;
+}
+
+@media all and (max-width: 800px) {
+  #quartz-body .center > article {
+    padding: 0.25rem 1rem 1rem;
+  }
+}
