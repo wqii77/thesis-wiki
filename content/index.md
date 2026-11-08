@@ -48,6 +48,7 @@ title: WTC 文獻 Wiki
 - Levac et al. (2010)
 - MacIntyre (1994)
 - MacIntyre (2007)
+- MacIntyre & Legatto (2011)
 - MacIntyre et al. (1998)
 - MacIntyre et al. (1999)
 - MacIntyre et al. (2002)

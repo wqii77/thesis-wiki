@@ -19,3 +19,9 @@ title: 維護日誌
 - 新建：papers/kirkpatrick2024scoping、concepts/willingness-to-communicate、concepts/state-wtc、concepts/l2-wtc-pyramid-model、concepts/perceived-communicative-competence
 - 更新：index
 - 矛盾：無
+
+## [2026-11-08] ingest | kirkpatrick2024scoping（補充研究限制）
+
+- 新建：無
+- 更新：papers/kirkpatrick2024scoping、index
+- 矛盾：無

@@ -48,6 +48,7 @@ ingested: 2026-11-08
 > - 金字塔模型第 IV 層的歸類前後不一：先歸入有持久影響的下三層（PDF p. 10），後又寫成從暫時到持久（PDF p. 11）（整理者補充）。
 > - 引用年份不一致：McCroskey & Richmond 的害羞研究有時標 1990（PDF p. 6），有時標 1982（PDF p. 8）（整理者補充）。
 > - 作者說本回顧只聚焦數位情境中的 WTC 發展（PDF p. 27），和 7 個研究問題涵蓋的範圍不符（PDF p. 4）（整理者補充）。
+> - 作者把 MacIntyre & Legatto (2011) 列為特質型概念化的例子（PDF p. 2），但該文標題即為動態系統取向、研究短時間內的情感變化（PDF p. 30），歸類有疑義（整理者補充）。
 
 > [!quote] 原文引述
 > "L1 WTC does not simply translate into L2 WTC"（PDF p. 27）
