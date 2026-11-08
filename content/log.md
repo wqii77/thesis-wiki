@@ -37,3 +37,9 @@ title: 維護日誌
 - 新建：無
 - 更新：quartz/styles/custom.scss
 - 矛盾：無
+
+## [2026-11-08] schema | 概念頁改以已匯入文獻的實質討論計篇，限縮 conflict 視窗用途
+
+- 新建：無
+- 更新：CLAUDE.md
+- 矛盾：無
