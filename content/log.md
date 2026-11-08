@@ -43,3 +43,9 @@ title: 維護日誌
 - 新建：無
 - 更新：CLAUDE.md
 - 矛盾：無
+
+## [2026-11-08] ingest | tang2026drivers
+
+- 新建：papers/tang2026drivers、concepts/wtc-with-ai、concepts/foreign-language-classroom-anxiety、measures/l2-grit、measures/s-flcas
+- 更新：concepts/willingness-to-communicate、papers/kirkpatrick2024scoping、index
+- 矛盾：無

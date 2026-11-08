@@ -66,7 +66,7 @@ ingested: 2026-11-08
 
 其他在本文獻中被提及的主題：
 
-- 外語課堂焦慮（Foreign Language Classroom Anxiety, FLCA）：文中沒有使用這個術語，只有 French anxiety、learning anxiety、speaking anxiety、L2 anxiety 等相近用詞（PDF p. 11, 12, 20）。
+- [[foreign-language-classroom-anxiety|外語課堂焦慮]]（Foreign Language Classroom Anxiety, FLCA）：文中沒有使用這個術語，只有 French anxiety、learning anxiety、speaking anxiety、L2 anxiety 等相近用詞（PDF p. 11, 12, 20）。
 - 外語愉悅（Foreign Language Enjoyment, FLE）：文中沒有使用這個術語，只有相近的 classroom enjoyment（Kirkpatrick et al., 2024 轉述 Lee & Taylor, 2022；Lee, 2022）（PDF p. 16, 22）。
 - 鷹架（Scaffolding）：只轉述一項以群體動態評量進行鷹架的研究（Kirkpatrick et al., 2024 轉述 Azizi & Farid Khafaga, 2023）（PDF p. 12）。
 - 人工智慧聊天機器人：只在列舉科技研究時提到（Kirkpatrick et al., 2024 轉述 Fathi et al., 2024）（PDF p. 20）。
