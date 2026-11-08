@@ -55,3 +55,9 @@ title: 維護日誌
 - 新建：無
 - 更新：papers/tang2026drivers
 - 矛盾：無
+
+## [2026-11-08] ingest | fathi2024improving
+
+- 新建：papers/fathi2024improving、concepts/ai-chatbot-intervention
+- 更新：concepts/willingness-to-communicate、concepts/wtc-with-ai、concepts/foreign-language-classroom-anxiety、papers/kirkpatrick2024scoping、index
+- 矛盾：無

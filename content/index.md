@@ -10,11 +10,13 @@ title: WTC 文獻 Wiki
   - [[perceived-communicative-competence|自覺溝通能力]]：溝通意願的前因之一
   - [[wtc-with-ai|與人工智慧溝通的意願]]：以人工智慧為溝通對象的溝通意願
   - [[foreign-language-classroom-anxiety|外語課堂焦慮]]：可能抑制溝通意願的情感因素
+  - [[ai-chatbot-intervention|人工智慧聊天機器人介入]]：以聊天機器人互動提升溝通意願的教學介入
 
 ## 全站目錄
 
 ### 文獻
 
+- [[fathi2024improving|Fathi et al. (2024)]]：聊天機器人介入對口說與溝通意願的混合方法研究
 - [[kirkpatrick2024scoping|Kirkpatrick et al. (2024)]]：溝通意願的範疇回顧
 - [[tang2026drivers|Tang et al. (2026)]]：對生成式 AI 溝通意願的前因問卷調查
 
@@ -26,6 +28,7 @@ title: WTC 文獻 Wiki
 - [[perceived-communicative-competence|自覺溝通能力（Perceived Communicative Competence）]]
 - [[wtc-with-ai|與人工智慧溝通的意願（Willingness to Communicate with AI）]]
 - [[foreign-language-classroom-anxiety|外語課堂焦慮（Foreign Language Classroom Anxiety）]]
+- [[ai-chatbot-intervention|人工智慧聊天機器人介入（AI Chatbot Intervention）]]
 
 ### 量表
 
@@ -42,7 +45,7 @@ title: WTC 文獻 Wiki
 
 ## 延伸閱讀候選
 
-以下研究出現在已收錄的頁面中，但不在書目檔內，內容來自 [[kirkpatrick2024scoping|Kirkpatrick et al. (2024)]] 或 [[tang2026drivers|Tang et al. (2026)]] 的轉述或引用。
+以下研究出現在已收錄的頁面中，但不在書目檔內，內容來自 [[fathi2024improving|Fathi et al. (2024)]]、[[kirkpatrick2024scoping|Kirkpatrick et al. (2024)]] 或 [[tang2026drivers|Tang et al. (2026)]] 的轉述或引用。
 
 - Alamer (2021)
 - Azizi & Farid Khafaga (2023)
@@ -52,6 +55,7 @@ title: WTC 文獻 Wiki
 - Clément et al. (2003)
 - Deci & Ryan (2012)
 - Duckworth et al. (2007)
+- Engeström (1987)
 - Jin & Qin (2024)
 - Lee (2022)
 - Lee & Lu (2023)
@@ -64,6 +68,7 @@ title: WTC 文獻 Wiki
 - MacIntyre & Legatto (2011)
 - MacIntyre et al. (1998)
 - MacIntyre et al. (1999)
+- MacIntyre et al. (2001)
 - MacIntyre et al. (2002)
 - McCroskey & Baer (1985)
 - McCroskey & Richmond (1982)

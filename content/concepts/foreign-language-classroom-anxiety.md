@@ -31,6 +31,7 @@ Tang et al. (2026) 用的詞是口說焦慮（Speaking Anxiety），指它可能
 
 - [[wtc-with-ai|與人工智慧溝通的意願]]：改編後的口說焦慮負向預測這項意願（依據：Tang et al., 2026）
 - [[willingness-to-communicate|溝通意願]]：作者認為焦慮會抑制溝通意願（依據：Tang et al., 2026）
+- [[ai-chatbot-intervention|人工智慧聊天機器人介入]]：訪談提到低壓力、不緊張，但沒有測量焦慮（依據：Fathi et al., 2024）
 
 > [!idea] 我的想法
 > （待使用者補寫）
