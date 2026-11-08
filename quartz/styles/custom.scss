@@ -138,6 +138,11 @@ a.internal.tag-link {
   &[data-callout="card"] {
     --window-color: #{$color-card};
     --callout-icon: var(--callout-icon-abstract);
+
+    // 中文可在任意字間斷行，粗體標籤（例如「研究設計：」）要保持完整
+    strong {
+      white-space: nowrap;
+    }
   }
 
   &[data-callout="finding"] {
@@ -186,8 +191,11 @@ a.internal.tag-link {
     }
   }
 
+  // Quartz 預設 width: 100%，內距要算進寬度，否則清單會比視窗寬而被切掉
   & > ul.overflow {
+    box-sizing: border-box;
     margin: 0;
+    overflow-wrap: anywhere;
     padding: 0.5rem 1rem;
   }
 }
