@@ -2,7 +2,7 @@
 title: "{中文名稱}（{English Name}）"
 type: concept
 aliases: ["{中文名稱}", "{English Name}", "{縮寫}"]
-source_count: {引用此概念的文獻數}
+source_count: {第 2 區塊中列出的第一手研究數（回顧文獻的轉述不計入）}
 tags: [concept]
 updated: {YYYY-MM-DD}
 ---
