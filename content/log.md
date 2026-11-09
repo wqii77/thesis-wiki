@@ -88,3 +88,8 @@ title: 維護日誌
 
 - 更新：quartz/components/Breadcrumbs.tsx
 - 矛盾：無
+
+## [2026-11-09] schema | 改寫 README，說明專案、資料夾結構與工作方式
+
+- 更新：README
+- 矛盾：無
