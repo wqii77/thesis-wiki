@@ -6,7 +6,7 @@ study_type: "問卷調查"
 year: 2026
 journal: "Frontiers in Psychology"
 doi: "10.3389/fpsyg.2026.1754495"
-concepts: [willingness-to-communicate, wtc-with-ai, foreign-language-classroom-anxiety]
+concepts: [willingness-to-communicate, wtc-with-ai, foreign-language-classroom-anxiety, foreign-language-enjoyment]
 measures: [l2-grit, s-flcas]
 methods: []
 tags: [paper, "問卷調查"]
@@ -20,7 +20,7 @@ ingested: 2026-11-08
 > - **研究問題**：學習恆毅力、口說自我效能、口說愉悅、口說焦慮與對生成式 AI（Generative AI, GenAI）的溝通意願（Willingness to Communicate, WTC）之間是否有顯著關係，前四者又能預測到什麼程度（PDF p. 4）
 > - **研究設計**：問卷調查，單一時間點自陳（PDF p. 6）
 > - **研究對象與樣本**：中國西北多所大學的大學生，英語作為外語（English as a Foreign Language, EFL）學習者，都用過豆包（Doubao）練習英語口說，N = 350（PDF p. 4）
-> - **研究工具**：[[l2-grit|L2 恆毅力量表]]（6 題）；Leeming (2017)、Leeming et al. (2024) 的口說自我效能量表（10 題）；改編自 Jin & Qin (2024) 的口說愉悅量表（12 題）；改編自 [[s-flcas|S-FLCAS]] 的口說焦慮量表（8 題）；改編自 Zhang et al. (2024) 的 WTC 量表（10 題）；皆為 5 點李克特量表（PDF p. 4–5）
+> - **研究工具**：[[l2-grit|L2 恆毅力量表]]（6 題）；Leeming (2017)、Leeming et al. (2024) 的口說自我效能量表（10 題）；改編自 Jin & Qin (2024) 的口說愉悅量表（12 題）；改編自 [[s-flcas|S-FLCAS]] 的口說焦慮量表（8 題）；作者稱改編自 [[zhang2024artificial|Zhang et al. (2024)]] 的 WTC 量表（10 題），但與該文不符，見研究限制；皆為 5 點李克特量表（PDF p. 4–5）
 > - **分析方法**：驗證性因素分析（CFA）、結構方程模型（SEM），使用 SPSS 31 與 AMOS 29（PDF p. 6）
 > - **主要效果量**：對 WTC 的標準化路徑：自我效能 β = 0.240、恆毅力 β = 0.232（p < 0.001）；愉悅 β = 0.159、焦慮 β = −0.142（p < 0.05）（PDF p. 6, 8）
 
@@ -50,7 +50,9 @@ ingested: 2026-11-08
 > - 自我效能與恆毅力的直接效果只差 0.008，文中沒有檢定兩者差異（PDF p. 8）（整理者補充）。
 > - 間接效果只報告數值，沒有標準誤、信賴區間或 p 值（PDF p. 8）（整理者補充）。
 > - 表 2 有 10 題的未標準化負荷為 1 且無標準誤，5 個因素通常只需固定 5 題（PDF p. 7–8）；整理者依題數算得的整體 CFA 自由度是 979，報告值為 984（PDF p. 6），多固定的 5 題正好吻合。文中未說明原因（待查證）（整理者補充）。
-> - WTC 量表的舉例題目問的是與 AI 溝通能否提升流暢度（PDF p. 5），較接近覺得有用，而不是願意開口；原量表內容待匯入 Zhang et al. (2024) 後核對（待查證）（整理者補充）。
+> - WTC 量表的來源與引用文獻不符：本文說量表由 Zhang et al. (2024) 開發，原本針對訊飛星火（iFLYTEK Spark）（PDF p. 5），參考文獻中唯一的 Zhang et al. (2024) 是 [[zhang2024artificial|Zhang, Meng, & Ma (2024)]]（PDF p. 12）。但該文沒有提到訊飛星火，WTC 量表來自 Peng & Woodrow (2010)，測的是用外語溝通的一般意願（Zhang，PDF p. 5）。量表的實際來源尚不清楚（待查證）（整理者補充）。
+> - WTC 量表的舉例題目問的是與 AI 溝通能否提升流暢度（PDF p. 5），較接近覺得有用，而不是願意開口。最接近的題目在 Zhang et al. (2024) 的自覺能力部分，不在 WTC 量表（Zhang，PDF p. 10）。因此這份量表測到的可能不完全是溝通意願（整理者補充）。
+> - 本文引用 Zhang et al. (2024) 佐證自我效能與愉悅、焦慮的關聯（PDF p. 9），但該文沒有測量自我效能（Zhang，PDF p. 4–5）（整理者補充）。
 > - 需求對應前後不一：焦慮先被視為關聯感的代理指標（PDF p. 3），後面又說它妨礙勝任感（PDF p. 9）（整理者補充）。
 > - 沒有和真人對話的對照組，「情境改變了驅力」只能是推論（PDF p. 10）（整理者補充）。
 > - 表 2、表 3 的註只寫 `**p < 0.01`，表內卻使用 `***`（PDF p. 7–8）（整理者補充）。
@@ -64,15 +66,15 @@ ingested: 2026-11-08
 
 ## 與相關概念的關係
 
-- [[wtc-with-ai|與人工智慧溝通的意願]]：支持。提供以生成式 AI 為對象的前因路徑與改編量表（PDF p. 5, 8）。
+- [[wtc-with-ai|與人工智慧溝通的意願]]：支持。提供以生成式 AI 為對象的前因路徑與改編量表（PDF p. 5, 8），但量表來源與所引文獻不符，見研究限制。
 - [[willingness-to-communicate|溝通意願]]：支持。顯示 WTC 與多項心理變項有關，但只在單一時間點測量，沒有檢驗動態變化（PDF p. 6）。
 - [[foreign-language-classroom-anxiety|外語課堂焦慮]]：支持。以改編自 S-FLCAS 的量表測量對 AI 說英語時的焦慮，它負向預測 WTC（PDF p. 5, 8）。測量情境已不是課堂。
+- [[foreign-language-enjoyment|外語愉悅]]：支持。口說愉悅正向預測 WTC（PDF p. 6, 8）。量表來自 Jin & Qin (2024)（PDF p. 5），文中沒有使用外語愉悅（Foreign Language Enjoyment, FLE）這個術語，歸入此頁是整理者的判斷。
 
 其他在本文獻中被提及的主題：
 
 - 恆毅力（Grit）：對長期目標的毅力與熱情（Tang et al., 2026 引用 Duckworth et al., 2007）（PDF p. 2）；本文把它視為自主的自我調節（PDF p. 3）。
 - 口說自我效能（Speaking Self-Efficacy）：相信自己能完成口說任務（PDF p. 2）；本文未測量自覺溝通能力，兩者不宜直接等同。
-- 口說愉悅（Speaking Enjoyment）：量表來自 Jin & Qin (2024)（PDF p. 5），文中沒有使用外語愉悅（Foreign Language Enjoyment, FLE）這個術語。
 - [[l2-wtc-pyramid-model|L2 溝通意願金字塔模型]]：只引為理論背景，本文沒有檢驗（PDF p. 2）。
 
 > [!idea] 我的想法

@@ -2,9 +2,9 @@
 title: "自覺溝通能力（Perceived Communicative Competence）"
 type: concept
 aliases: ["自覺溝通能力", "Perceived Communicative Competence", "SPCC", "Self-Perceived Communication Competence"]
-source_count: 1
+source_count: 2
 tags: [concept]
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 
 ## 1. 定義與出處
@@ -28,7 +28,7 @@ updated: 2026-11-08
 
 ## 3. 測量方式
 
-（本文獻未涉及）
+- 改編自 Tai & Chen (2023) 的 AI 使用知覺量表：其中 5 題問與 AI 互動時的自覺能力，5 點量尺，實驗組 M = 4.22, SD = 0.36（[[zhang2024artificial|Zhang et al., 2024]]，PDF p. 5, 9–10）。這只限與 AI 互動的情境，部分題目較接近自在感（整理者補充）；該研究也沒有檢驗它與溝通意願的關係，因此不列入第 2 區塊。
 
 ## 4. 相關概念
 

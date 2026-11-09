@@ -61,3 +61,9 @@ title: 維護日誌
 - 新建：papers/fathi2024improving、concepts/ai-chatbot-intervention
 - 更新：concepts/willingness-to-communicate、concepts/wtc-with-ai、concepts/foreign-language-classroom-anxiety、papers/kirkpatrick2024scoping、index
 - 矛盾：無
+
+## [2026-11-09] ingest | zhang2024artificial
+
+- 新建：papers/zhang2024artificial、concepts/foreign-language-enjoyment、methods/ancova
+- 更新：concepts/ai-chatbot-intervention、concepts/willingness-to-communicate、concepts/foreign-language-classroom-anxiety、concepts/wtc-with-ai、concepts/perceived-communicative-competence、measures/s-flcas、papers/tang2026drivers、papers/fathi2024improving、index
+- 矛盾：無（Tang et al., 2026 對本文量表的描述不符，屬單篇引用問題，記於該頁研究限制）
