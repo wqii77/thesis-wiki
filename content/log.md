@@ -83,3 +83,8 @@ title: 維護日誌
 
 - 更新：templates/concept
 - 矛盾：無
+
+## [2026-11-09] style | 麵包屑完整顯示頁面標題，不再移除連字號
+
+- 更新：quartz/components/Breadcrumbs.tsx
+- 矛盾：無
