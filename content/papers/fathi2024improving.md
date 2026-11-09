@@ -8,7 +8,7 @@ journal: "System"
 doi: "10.1016/j.system.2024.103254"
 concepts: [ai-chatbot-intervention, willingness-to-communicate]
 measures: []
-methods: [ancova]
+methods: [ancova, paired-samples-t-test, pretest-posttest-design]
 tags: [paper, "混合方法"]
 verified: false
 ingested: 2026-11-08
@@ -18,10 +18,10 @@ ingested: 2026-11-08
 
 > [!card] 研究卡
 > - **研究問題**：相較於面對面互動，人工智慧（AI）中介互動能否提升英語作為外語（English as a Foreign Language, EFL）學習者的口說能力與溝通意願（Willingness to Communicate, WTC），學習者又如何看待這類活動（PDF p. 5）
-> - **研究設計**：循序解釋型混合方法；12 週前後測，AI 組與面對面組，隨後訪談 AI 組（PDF p. 5, 7）
+> - **研究設計**：循序解釋型混合方法；12 週[[pretest-posttest-design|前後測（Pretest-Posttest Design）]]，AI 組與面對面組，隨後訪談 AI 組（PDF p. 5, 7）
 > - **研究對象與樣本**：伊朗語言機構的中級 EFL 學習者，18–25 歲，N = 65（AI 組 33 人、面對面組 32 人）；訪談 9 人（PDF p. 5–6）
 > - **研究工具**：IELTS 口說測驗（評分者間信度 .87）；MacIntyre et al. (2001) 的 WTC 量表（16 題，7 點量尺，α = .89）；半結構式訪談；介入工具為 Andy English Chatbot（PDF p. 6）
-> - **分析方法**：成對樣本 t 檢定、單因子[[ancova|共變數分析（ANCOVA）]]、主題分析（PDF p. 8）
+> - **分析方法**：[[paired-samples-t-test|成對樣本 t 檢定（Paired-Samples t-Test）]]、單因子[[ancova|共變數分析（Analysis of Covariance, ANCOVA）]]、主題分析（PDF p. 8）
 > - **主要效果量**：組間差異：口說總分 F(1, 62) = 29.07, p < .001, ηp² = .46；WTC F(1, 62) = 29.16, ηp² = .42（PDF p. 10–11）。數字有前後不一之處，見研究限制
 
 ## 一句話摘要

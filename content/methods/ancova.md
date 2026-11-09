@@ -23,8 +23,8 @@ updated: 2026-11-09
 
 | 文獻 | 用來回答什麼問題 | 備註 |
 |---|---|---|
-| [[fathi2024improving\|Fathi et al. (2024)]] | 控制前測後，AI 組與面對面組的口說與溝通意願是否不同（PDF p. 8, 10–11） | N = 65（PDF p. 5）；有多處 ηp² 與 F 值對不上（整理者計算）；文中未報告迴歸斜率同質性檢定 |
-| [[zhang2024artificial\|Zhang et al. (2024)]] | 控制前測後，實驗組與對照組的外語愉悅、外語焦慮與溝通意願是否不同（PDF p. 6, 8） | N = 131（PDF p. 4）；SPSS 27.0（PDF p. 6）；文中未報告迴歸斜率同質性檢定，也沒有校正多重檢定 |
+| [[fathi2024improving\|Fathi et al. (2024)]] | 控制前測後，AI 組與面對面組的口說與溝通意願（Willingness to Communicate, WTC）是否不同（PDF p. 8, 10–11） | N = 65（PDF p. 5）；有多處 ηp² 與 F 值對不上（整理者計算）；文中未報告迴歸斜率同質性檢定 |
+| [[zhang2024artificial\|Zhang et al. (2024)]] | 控制前測後，實驗組與對照組的外語愉悅（Foreign Language Enjoyment, FLE）、外語焦慮（Foreign Language Anxiety, FLA）與溝通意願是否不同（PDF p. 6, 8） | N = 131（PDF p. 4）；SPSS 27.0（PDF p. 6）；文中未報告迴歸斜率同質性檢定，也沒有校正多重檢定 |
 
 > [!idea] 我的想法
 > （待使用者補寫）

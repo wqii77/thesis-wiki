@@ -17,7 +17,7 @@ Tang et al. (2026) 用的詞是口說焦慮（Speaking Anxiety），指它可能
 
 **支持**
 
-- [[tang2026drivers|Tang et al. (2026)]]：把 S-FLCAS 改編為對生成式 AI 說英語的情境，口說焦慮與溝通意願負相關（r = −0.393, p < 0.001），並負向預測溝通意願（β = −0.142, p < 0.05）（PDF p. 6, 8）。這是 AI 情境的結果，不是課堂情境。
+- [[tang2026drivers|Tang et al. (2026)]]：把簡式外語課堂焦慮量表（Short-Form Foreign Language Classroom Anxiety Scale, S-FLCAS）改編為對生成式 AI 說英語的情境，口說焦慮與溝通意願（Willingness to Communicate, WTC）負相關（r = −0.393, p < 0.001），並負向預測溝通意願（β = −0.142, p < 0.05）（PDF p. 6, 8）。這是 AI 情境的結果，不是課堂情境。
 - [[zhang2024artificial|Zhang et al. (2024)]]：6 週 AI 口說助理介入後，實驗組的焦慮低於對照組（F = 16.437, p < .001, ηp² = .114）（PDF p. 8），且前後變化顯著（t = −6.498, p < .001, d = −.806）（PDF p. 9），顯示焦慮可能隨介入改變。文中沒有檢驗焦慮與溝通意願的關係。
 
 **不一致**
@@ -33,7 +33,7 @@ Tang et al. (2026) 用的詞是口說焦慮（Speaking Anxiety），指它可能
 
 - [[wtc-with-ai|與人工智慧溝通的意願]]：改編後的口說焦慮負向預測這項意願（依據：Tang et al., 2026）
 - [[willingness-to-communicate|溝通意願]]：作者認為焦慮會抑制溝通意願（依據：Tang et al., 2026）
-- [[ai-chatbot-intervention|人工智慧聊天機器人介入]]：介入後實驗組的焦慮下降（依據：Zhang et al., 2024）；訪談提到低壓力、不緊張，但沒有測量焦慮（依據：Fathi et al., 2024）
+- [[ai-chatbot-intervention|人工智慧聊天機器人介入]]：介入後實驗組的焦慮下降（依據：Zhang et al., 2024）；訪談提到低壓力、不緊張，但沒有測量焦慮（依據：[[fathi2024improving|Fathi et al., 2024]]）
 - [[foreign-language-enjoyment|外語愉悅]]：中度負相關，但是不同向度（依據：Zhang et al., 2024 轉述 Dewaele et al., 2017）
 
 > [!idea] 我的想法

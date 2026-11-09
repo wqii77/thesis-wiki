@@ -4,12 +4,12 @@ type: concept
 aliases: ["L2 溝通意願金字塔模型", "L2 WTC Pyramid Model", "金字塔模型", "Heuristic Model of L2 WTC"]
 source_count: 1
 tags: [concept]
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 
 ## 1. 定義與出處
 
-L2 溝通意願金字塔模型（L2 WTC Pyramid Model）是說明第二語言（L2）溝通意願前因的六層啟發式模型，涵蓋語言、社會心理與溝通因素（Kirkpatrick et al., 2024 轉述 MacIntyre et al., 1998）（PDF p. 8）。
+L2 溝通意願金字塔模型（L2 WTC Pyramid Model）是說明第二語言（L2）溝通意願（Willingness to Communicate, WTC）前因的六層啟發式模型，涵蓋語言、社會心理與溝通因素（Kirkpatrick et al., 2024 轉述 MacIntyre et al., 1998）（PDF p. 8）。
 
 模型由上而下依序是溝通行為、行為意圖、情境前因、動機傾向、情意認知脈絡、社會與個人脈絡（PDF p. 10）。上三層被描述為情境或暫時的影響，下三層被描述為持久的影響（PDF p. 10）；不過第 IV 層在同一篇回顧中另被寫成從暫時到持久（PDF p. 11），這一點待查證。
 

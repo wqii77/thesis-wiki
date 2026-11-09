@@ -11,7 +11,7 @@ updated: 2026-11-09
 
 外語愉悅（Foreign Language Enjoyment, FLE）指挑戰與能力相稱時產生的複雜情緒，反映人們在困難任務中追求成功的動力（[[zhang2024artificial|Zhang et al., 2024]] 轉述 Dewaele & MacIntyre, 2016）（PDF p. 2）。
 
-研究者隨正向心理學（Positive Psychology）進入外語學習領域後，開始重視這類正向情緒（Zhang et al., 2024，PDF p. 2）。FLE 與外語焦慮呈中度負相關，但被視為各自獨立的向度（Zhang et al., 2024 轉述 Dewaele et al., 2017；Ozer & Altay, 2021）（PDF p. 2）。
+研究者隨正向心理學（Positive Psychology）進入外語學習領域後，開始重視這類正向情緒（Zhang et al., 2024，PDF p. 2）。FLE 與外語焦慮（Foreign Language Anxiety, FLA）呈中度負相關，但被視為各自獨立的向度（Zhang et al., 2024 轉述 Dewaele et al., 2017；Ozer & Altay, 2021）（PDF p. 2）。
 
 [[tang2026drivers|Tang et al. (2026)]] 用的詞是口說愉悅（Speaking Enjoyment），文中沒有使用 FLE 這個術語（Tang，PDF p. 5）；本頁把它視為相近概念，這是整理者的歸類。
 
@@ -20,7 +20,7 @@ updated: 2026-11-09
 **支持**
 
 - [[zhang2024artificial|Zhang et al. (2024)]]：6 週 AI 口說助理介入後，實驗組的 FLE 高於對照組（F = 5.701, p = .018, ηp² = .043）（PDF p. 8），且前後變化顯著（t = 3.597, p < .001, d = .446）（PDF p. 9）。若校正三項檢定，組間差異不再顯著（整理者計算）。
-- [[tang2026drivers|Tang et al. (2026)]]：350 名中國大學生的問卷中，對生成式 AI 說英語時的口說愉悅與溝通意願正相關（r = 0.423, p < 0.001），並正向預測溝通意願（β = 0.159, p < 0.05）（PDF p. 6, 8）。這是橫斷面結果，測量情境不是課堂。
+- [[tang2026drivers|Tang et al. (2026)]]：350 名中國大學生的問卷中，對生成式 AI 說英語時的口說愉悅與溝通意願（Willingness to Communicate, WTC）正相關（r = 0.423, p < 0.001），並正向預測溝通意願（β = 0.159, p < 0.05）（PDF p. 6, 8）。這是橫斷面結果，測量情境不是課堂。
 
 **不一致**
 

@@ -2,16 +2,16 @@
 title: "自覺溝通能力（Perceived Communicative Competence）"
 type: concept
 aliases: ["自覺溝通能力", "Perceived Communicative Competence", "SPCC", "Self-Perceived Communication Competence"]
-source_count: 2
+source_count: 1
 tags: [concept]
 updated: 2026-11-09
 ---
 
 ## 1. 定義與出處
 
-自覺溝通能力（Perceived Communicative Competence，文獻中也稱 Self-Perceived Communication Competence, SPCC）指學習者如何感知或評估自己的第二語言（L2）能力（PDF p. 10）。
+自覺溝通能力（Perceived Communicative Competence，文獻中也稱 Self-Perceived Communication Competence, SPCC）指學習者如何感知或評估自己的第二語言（L2）能力（Kirkpatrick et al., 2024，PDF p. 10）。
 
-同一篇回顧把金字塔模型第 III 層的「狀態溝通自信」和 SPCC 視為相近說法（PDF p. 10）。它同時出現在第一語言（L1）溝通意願的因果模型中，被視為溝通意願的直接成因之一（Kirkpatrick et al., 2024 轉述 MacIntyre et al., 1999）（PDF p. 8）。
+同一篇回顧把金字塔模型（L2 WTC Pyramid Model）第 III 層的「狀態溝通自信」和 SPCC 視為相近說法（PDF p. 10）。它同時出現在第一語言（L1）溝通意願（Willingness to Communicate, WTC）的因果模型中，被視為溝通意願的直接成因之一（Kirkpatrick et al., 2024 轉述 MacIntyre et al., 1999）（PDF p. 8）。
 
 ## 2. 各文獻怎麼說
 

@@ -43,7 +43,7 @@ ingested: 2026-11-08
 > - 受資料蒐集方式所限，可能未涵蓋所有資料庫與相關文章（PDF p. 26）。
 > - 只聚焦特定趨勢與研究問題，文化因素、跨文化面向、其他語言中的 WTC 仍待研究（PDF p. 27）。
 > - 只根據 47 篇文獻，未來研究應納入更多文章（PDF p. 27）。
-> - 檢索時間是 2022 年 12 月（PDF p. 4），但納入了 2023 年的研究，例如 Azizi & Farid Khafaga (2023)、Lee & Lu (2023)、Zarrinabadi et al. (2023)（PDF p. 12, 16, 22）；它們可能來自手動檢索的 3 篇，文中未說明（待查證）（整理者補充）。
+> - 檢索時間是 2022 年 12 月（PDF p. 4），但納入了 2023 年的研究，例如 Azizi & Farid Khafaga (2023)、Lee & Lu (2023)、Zarrinabadi et al. (2023)（PDF p. 12, 16, 22），列舉科技研究時也引用 [[fathi2024improving|Fathi et al. (2024)]]（PDF p. 20, 29）；2023 年的研究可能來自手動檢索的 3 篇，文中未說明（待查證）（整理者補充）。
 > - 作者說只選一篇概念性著作，也就是 MacIntyre et al. (1998)（PDF p. 5），但 Wen & Clément (2003) 在表格中的工具欄寫「Discussion」，也沒有列參與者（PDF p. 15）（整理者補充）。
 > - 金字塔模型第 IV 層的歸類前後不一：先歸入有持久影響的下三層（PDF p. 10），後又寫成從暫時到持久（PDF p. 11）（整理者補充）。
 > - 引用年份不一致：McCroskey & Richmond 的害羞研究有時標 1990（PDF p. 6），有時標 1982（PDF p. 8）（整理者補充）。
@@ -67,7 +67,7 @@ ingested: 2026-11-08
 其他在本文獻中被提及的主題：
 
 - [[foreign-language-classroom-anxiety|外語課堂焦慮]]（Foreign Language Classroom Anxiety, FLCA）：文中沒有使用這個術語，只有 French anxiety、learning anxiety、speaking anxiety、L2 anxiety 等相近用詞（PDF p. 11, 12, 20）。
-- 外語愉悅（Foreign Language Enjoyment, FLE）：文中沒有使用這個術語，只有相近的 classroom enjoyment（Kirkpatrick et al., 2024 轉述 Lee & Taylor, 2022；Lee, 2022）（PDF p. 16, 22）。
+- [[foreign-language-enjoyment|外語愉悅]]（Foreign Language Enjoyment, FLE）：文中沒有使用這個術語，只有相近的 classroom enjoyment（Kirkpatrick et al., 2024 轉述 Lee & Taylor, 2022；Lee, 2022）（PDF p. 16, 22）。
 - 鷹架（Scaffolding）：只轉述一項以群體動態評量進行鷹架的研究（Kirkpatrick et al., 2024 轉述 Azizi & Farid Khafaga, 2023）（PDF p. 12）。
 - [[ai-chatbot-intervention|人工智慧聊天機器人]]：只在列舉科技研究時提到（Kirkpatrick et al., 2024 轉述 [[fathi2024improving|Fathi et al., 2024]]）（PDF p. 20）。
 

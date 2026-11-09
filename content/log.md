@@ -72,3 +72,9 @@ title: 維護日誌
 
 - 更新：CLAUDE.md
 - 矛盾：無
+
+## [2026-11-09] lint | 全站健檢與修正
+
+- 新建：methods/paired-samples-t-test、methods/pretest-posttest-design
+- 更新：concepts/ai-chatbot-intervention、concepts/foreign-language-classroom-anxiety、concepts/foreign-language-enjoyment、concepts/l2-wtc-pyramid-model、concepts/perceived-communicative-competence、concepts/willingness-to-communicate、concepts/wtc-with-ai、measures/s-flcas、methods/ancova、papers/fathi2024improving、papers/kirkpatrick2024scoping、papers/tang2026drivers、papers/zhang2024artificial、index
+- 矛盾：無

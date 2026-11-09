@@ -8,7 +8,7 @@ journal: "System"
 doi: "10.1016/j.system.2024.103259"
 concepts: [ai-chatbot-intervention, willingness-to-communicate, foreign-language-enjoyment, foreign-language-classroom-anxiety, perceived-communicative-competence]
 measures: [s-flcas]
-methods: [ancova]
+methods: [ancova, paired-samples-t-test, pretest-posttest-design]
 tags: [paper, "準實驗"]
 verified: false
 ingested: 2026-11-09
@@ -18,10 +18,10 @@ ingested: 2026-11-09
 
 > [!card] 研究卡
 > - **研究問題**：人工智慧（Artificial Intelligence, AI）口說助理如何影響中國英語作為外語（English as a Foreign Language, EFL）學習者的外語愉悅（Foreign Language Enjoyment, FLE）、外語焦慮（Foreign Language Anxiety, FLA）與溝通意願（Willingness to Communicate, WTC），學習者又如何看待它（PDF p. 4）
-> - **研究設計**：準實驗，前後測，實驗組與對照組；實驗組在課外使用 Lora 6 週（PDF p. 1, 4–6）
+> - **研究設計**：準實驗，[[pretest-posttest-design|前後測（Pretest-Posttest Design）]]，實驗組與對照組；實驗組在課外使用 Lora 6 週（PDF p. 1, 4–6）
 > - **研究對象與樣本**：中國東部一所大型公立大學的英語系一年級學生，CEFR B2–C1，N = 131（實驗組 65 人、對照組 66 人）（PDF p. 4）
-> - **研究工具**：Lora Assistant 應用程式；Jin & Zhang (2019) 的 FLE 量表（α = 0.811／0.810）；[[s-flcas|S-FLCAS]]（Botes et al., 2022；α = 0.761／0.803）；Peng & Woodrow (2010) 的 WTC 量表（α = 0.838／0.839）；改編自 Tai & Chen (2023) 的 AI 使用知覺量表（9 題，α = 0.766）；皆為 5 點量尺（PDF p. 4–5）
-> - **分析方法**：單因子[[ancova|共變數分析（ANCOVA）]]、成對樣本 t 檢定、獨立樣本 t 檢定，使用 SPSS 27.0（PDF p. 6）
+> - **研究工具**：Lora Assistant 應用程式；Jin & Zhang (2019) 的 FLE 量表（α = 0.811／0.810）；[[s-flcas|簡式外語課堂焦慮量表（Short-Form Foreign Language Classroom Anxiety Scale, S-FLCAS）]]（Botes et al., 2022；α = 0.761／0.803）；Peng & Woodrow (2010) 的 WTC 量表（α = 0.838／0.839）；改編自 Tai & Chen (2023) 的 AI 使用知覺量表（AI-Use Perception Scale；9 題，α = 0.766）；皆為 5 點量尺（PDF p. 4–5）
+> - **分析方法**：單因子[[ancova|共變數分析（Analysis of Covariance, ANCOVA）]]、[[paired-samples-t-test|成對樣本 t 檢定（Paired-Samples t-Test）]]、獨立樣本 t 檢定，使用 SPSS 27.0（PDF p. 6）
 > - **主要效果量**：組間差異：FLE F = 5.701, p = .018, ηp² = .043；FLA F = 16.437, p < .001, ηp² = .114；WTC F = 30.429, p < .001, ηp² = .192（PDF p. 8）。實驗組前後測：FLE d = .446、FLA d = −.806、WTC d = 1.013（PDF p. 9）
 
 ## 一句話摘要
@@ -36,7 +36,7 @@ ingested: 2026-11-09
 > 1. 控制前測後，實驗組的後測 FLE（F = 5.701, p = .018, ηp² = .043）與 WTC（F = 30.429, p < .001, ηp² = .192）高於對照組，FLA（F = 16.437, p < .001, ηp² = .114）低於對照組（PDF p. 8）。
 > 2. 實驗組三項前後變化都顯著：FLE（t = 3.597, d = .446）、FLA（t = −6.498, d = −.806）、WTC（t = 8.168, d = 1.013），p 皆 < .001（PDF p. 9）。
 > 3. 對照組三項變化都不顯著：FLE（t = 1.013, p = .315）、FLA（t = −1.192, p = .237）、WTC（t = 1.968, p = .053, d = .242）（PDF p. 9）。
-> 4. 實驗組與 AI 對話時焦慮低（M = 1.80, SD = 0.33），低於傳統口說課（M = 3.43），t = 19.388, p < .001（PDF p. 9–10）；與 AI 互動時的自覺能力高（M = 4.22, SD = 0.36）（PDF p. 9–10）。這項比較的 SD 與檢定方式都有問題，見研究限制。
+> 4. 實驗組與 AI 對話時焦慮低（M = 1.80, SD = 0.33），低於傳統口說課（M = 3.43），t = 19.388, p < .001（PDF p. 9–10）；與 AI 互動時的自覺能力（Self-Perceived Competence）高（M = 4.22, SD = 0.36）（PDF p. 9–10）。這項比較的 SD 與檢定方式都有問題，見研究限制。
 > 5. 實驗組每天至少使用 Lora 20 分鐘、每週至少 5 天、共 6 週（PDF p. 5–6）；Lora 以語音對話，提供發音、流暢度與文法回饋，也能用中文求助（PDF p. 4–5）。對照組由同一位教師授課，沒有這項課外活動（PDF p. 6）。
 
 > [!limit] 研究限制

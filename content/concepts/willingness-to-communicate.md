@@ -32,7 +32,7 @@ updated: 2026-11-09
 - 觀察與訪談：回顧文獻指出，這是蒐集情境型 WTC 資料的主要方式（[[kirkpatrick2024scoping|Kirkpatrick et al., 2024]]，PDF p. 25）。
 - MacIntyre et al. (2001) 的量表：16 題，7 點量尺，測量面對陌生人、群體等情境的 WTC，α = .89（[[fathi2024improving|Fathi et al., 2024]]，PDF p. 6）。
 - Peng & Woodrow (2010) 的量表：測量用外語溝通的意願，5 點量尺，α = 0.838／0.839（[[zhang2024artificial|Zhang et al., 2024]]，PDF p. 5）。
-- 以 AI 為對象的改編量表：見[[wtc-with-ai|與人工智慧溝通的意願]]（[[tang2026drivers|Tang et al., 2026]]，PDF p. 5）。
+- 以 AI 為對象的改編量表：見[[wtc-with-ai|與人工智慧溝通的意願（Willingness to Communicate with AI）]]（[[tang2026drivers|Tang et al., 2026]]，PDF p. 5）。
 
 ## 4. 相關概念
 

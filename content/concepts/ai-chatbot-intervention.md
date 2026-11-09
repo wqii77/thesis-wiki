@@ -19,8 +19,8 @@ updated: 2026-11-09
 
 **支持**
 
-- [[fathi2024improving|Fathi et al. (2024)]]：12 週後，AI 組的口說總分（F(1, 62) = 29.07, p < .001, ηp² = .46）與溝通意願（F(1, 62) = 29.16, ηp² = .42）都高於面對面組（PDF p. 10–11）。但 AI 組每天至少多 20 分鐘練習（PDF p. 7–8），表 9 的樣本數也與全文不符（PDF p. 5, 11），解讀時要保留。
-- [[zhang2024artificial|Zhang et al. (2024)]]：6 週後，實驗組的外語愉悅（F = 5.701, p = .018, ηp² = .043）與溝通意願（F = 30.429, p < .001, ηp² = .192）高於對照組，外語焦慮（F = 16.437, p < .001, ηp² = .114）低於對照組（PDF p. 8）。但實驗組每週至少多 100 分鐘課外練習（整理者計算），對照組沒有替代活動（PDF p. 6），解讀時要保留。
+- [[fathi2024improving|Fathi et al. (2024)]]：12 週後，AI 組的口說總分（F(1, 62) = 29.07, p < .001, ηp² = .46）與溝通意願（Willingness to Communicate, WTC；F(1, 62) = 29.16, ηp² = .42）都高於面對面組（PDF p. 10–11）。但 AI 組每天至少多 20 分鐘練習（PDF p. 7–8），表 9 的樣本數也與全文不符（PDF p. 5, 11），解讀時要保留。
+- [[zhang2024artificial|Zhang et al. (2024)]]：6 週後，實驗組的外語愉悅（Foreign Language Enjoyment, FLE；F = 5.701, p = .018, ηp² = .043）與溝通意願（F = 30.429, p < .001, ηp² = .192）高於對照組，外語焦慮（Foreign Language Anxiety, FLA；F = 16.437, p < .001, ηp² = .114）低於對照組（PDF p. 8）。但實驗組每週至少多 100 分鐘課外練習（整理者計算），對照組沒有替代活動（PDF p. 6），解讀時要保留。
 
 **不一致**
 
@@ -32,7 +32,7 @@ updated: 2026-11-09
 - 溝通意願：MacIntyre et al. (2001) 的 WTC 量表，16 題，7 點量尺（Fathi et al., 2024，PDF p. 6）。
 - 溝通意願：Peng & Woodrow (2010) 的量表，5 點量尺（Zhang et al., 2024，PDF p. 5）。
 - 外語愉悅：Jin & Zhang (2019) 的量表（Zhang et al., 2024，PDF p. 5）。
-- 外語焦慮：[[s-flcas|簡式外語課堂焦慮量表]]（Zhang et al., 2024，PDF p. 5）。
+- 外語焦慮：[[s-flcas|簡式外語課堂焦慮量表（Short-Form Foreign Language Classroom Anxiety Scale, S-FLCAS）]]（Zhang et al., 2024，PDF p. 5）。
 - 學習者看法：半結構式訪談（Fathi et al., 2024，PDF p. 6）；改編自 Tai & Chen (2023) 的 AI 使用知覺量表（Zhang et al., 2024，PDF p. 5）。
 
 ## 4. 相關概念

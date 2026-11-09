@@ -41,6 +41,8 @@ title: WTC 文獻 Wiki
 ### 方法
 
 - [[ancova|共變數分析（Analysis of Covariance, ANCOVA）]]
+- [[paired-samples-t-test|成對樣本 t 檢定（Paired-Samples t-Test）]]
+- [[pretest-posttest-design|前後測設計（Pretest-Posttest Design）]]
 
 ### 綜合比較
 

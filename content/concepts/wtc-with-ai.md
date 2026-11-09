@@ -11,7 +11,7 @@ updated: 2026-11-09
 
 與人工智慧溝通的意願（Willingness to Communicate with AI, WTC with AI）指學習者以外語和人工智慧對話的意願。這是整理者的歸納：[[tang2026drivers|Tang et al. (2026)]] 沒有另立正式定義，只沿用一般溝通意願（Willingness to Communicate, WTC）的定義（PDF p. 2），再把測量對象換成生成式 AI（PDF p. 5）。
 
-Tang et al. (2026) 說所用量表改編自 Zhang et al. (2024)，原本針對訊飛星火（iFLYTEK Spark）（PDF p. 5）。但 Tang 參考文獻中唯一的 Zhang et al. (2024) 是 [[zhang2024artificial|Zhang, Meng, & Ma (2024)]]（Tang，PDF p. 12）；該文沒有提到訊飛星火，WTC 量表來自 Peng & Woodrow (2010)，測的是用外語溝通的一般意願（Zhang，PDF p. 5）。這份量表的實際來源仍待查證。
+Tang et al. (2026) 說所用量表改編自 Zhang et al. (2024)，原本針對訊飛星火（iFLYTEK Spark）（PDF p. 5）。但 Tang 參考文獻中唯一的 Zhang et al. (2024) 就是 [[zhang2024artificial|Zhang et al. (2024)]] 這一篇（Tang，PDF p. 12）；該文沒有提到訊飛星火，WTC 量表來自 Peng & Woodrow (2010)，測的是用外語溝通的一般意願（Zhang，PDF p. 5）。這份量表的實際來源仍待查證。
 
 ## 2. 各文獻怎麼說
 
@@ -32,7 +32,7 @@ Tang et al. (2026) 說所用量表改編自 Zhang et al. (2024)，原本針對�
 - [[willingness-to-communicate|溝通意願]]：把溝通對象限定為人工智慧的版本（依據：Tang et al., 2026）
 - [[foreign-language-classroom-anxiety|外語課堂焦慮]]：改編後的口說焦慮負向預測與 AI 溝通的意願（依據：Tang et al., 2026）
 - [[foreign-language-enjoyment|外語愉悅]]：口說愉悅正向預測與 AI 溝通的意願（依據：Tang et al., 2026）
-- [[ai-chatbot-intervention|人工智慧聊天機器人介入]]：不同的結果變項，介入研究目前測的是一般情境的溝通意願（依據：Fathi et al., 2024；Zhang et al., 2024）
+- [[ai-chatbot-intervention|人工智慧聊天機器人介入]]：不同的結果變項，介入研究目前測的是一般情境的溝通意願（依據：[[fathi2024improving|Fathi et al., 2024]]；Zhang et al., 2024）
 - [[l2-wtc-pyramid-model|L2 溝通意願金字塔模型]]：作者認為 AI 情境可能需要重新界定 L2 WTC 理論（PDF p. 10），但沒有直接檢驗這個模型（依據：Tang et al., 2026）
 
 > [!idea] 我的想法
