@@ -2,7 +2,7 @@
 title: "溝通意願（Willingness to Communicate）"
 type: concept
 aliases: ["溝通意願", "Willingness to Communicate", "WTC"]
-source_count: 4
+source_count: 3
 tags: [concept]
 updated: 2026-11-09
 ---

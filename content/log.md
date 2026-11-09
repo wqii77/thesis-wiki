@@ -93,3 +93,9 @@ title: 維護日誌
 
 - 更新：README
 - 矛盾：無
+
+## [2026-11-09] lint | 依新定義更新概念頁的 source_count
+
+- 新建：無
+- 更新：concepts/willingness-to-communicate、concepts/l2-wtc-pyramid-model、concepts/state-wtc、concepts/perceived-communicative-competence
+- 矛盾：無

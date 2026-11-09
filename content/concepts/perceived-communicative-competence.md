@@ -2,7 +2,7 @@
 title: "自覺溝通能力（Perceived Communicative Competence）"
 type: concept
 aliases: ["自覺溝通能力", "Perceived Communicative Competence", "SPCC", "Self-Perceived Communication Competence"]
-source_count: 1
+source_count: 0
 tags: [concept]
 updated: 2026-11-09
 ---

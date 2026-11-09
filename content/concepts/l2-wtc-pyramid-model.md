@@ -2,7 +2,7 @@
 title: "L2 溝通意願金字塔模型（L2 WTC Pyramid Model）"
 type: concept
 aliases: ["L2 溝通意願金字塔模型", "L2 WTC Pyramid Model", "金字塔模型", "Heuristic Model of L2 WTC"]
-source_count: 1
+source_count: 0
 tags: [concept]
 updated: 2026-11-09
 ---

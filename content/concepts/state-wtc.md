@@ -2,9 +2,9 @@
 title: "狀態溝通意願（State Willingness to Communicate）"
 type: concept
 aliases: ["狀態溝通意願", "State Willingness to Communicate", "State WTC"]
-source_count: 1
+source_count: 0
 tags: [concept]
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 
 ## 1. 定義與出處
