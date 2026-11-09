@@ -67,3 +67,8 @@ title: 維護日誌
 - 新建：papers/zhang2024artificial、concepts/foreign-language-enjoyment、methods/ancova
 - 更新：concepts/ai-chatbot-intervention、concepts/willingness-to-communicate、concepts/foreign-language-classroom-anxiety、concepts/wtc-with-ai、concepts/perceived-communicative-competence、measures/s-flcas、papers/tang2026drivers、papers/fathi2024improving、index
 - 矛盾：無（Tang et al., 2026 對本文量表的描述不符，屬單篇引用問題，記於該頁研究限制）
+
+## [2026-11-09] schema | 4.1 節加入相關概念連結文字不附英文的例外
+
+- 更新：CLAUDE.md
+- 矛盾：無
